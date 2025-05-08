@@ -6,6 +6,15 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="41">
+  <properties>
+   <property name="unity:isHazard" value="true"/>
+   <property name="unity:layer" value="Hazards"/>
+  </properties>
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0.181818" y="-0.0909091" width="15.8182" height="16.0909"/>
+  </objectgroup>
+ </tile>
  <tile id="64">
   <objectgroup draworder="index" id="2">
    <object id="1" x="1" y="1" width="14" height="14"/>
