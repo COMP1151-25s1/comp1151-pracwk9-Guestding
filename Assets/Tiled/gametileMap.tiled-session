@@ -1,13 +1,21 @@
 {
-    "activeFile": "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
+    "activeFile": "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/TinyDungeon_Tilesheet.tsx": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/draftLevel.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -110.9090909090909,
+                "y": -192.36363636363637
+            }
         },
         "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/TinyDungeon_Tilesheet.tsx": {
             "scaleInDock": 1,
@@ -43,12 +51,12 @@
         }
     },
     "openFiles": [
-        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
-        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/draftLevel.tmx",
-        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/TinyDungeon_Tilesheet.tsx"
+        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
+        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/draftLevel.tmx"
     ],
     "project": "",
     "recentFiles": [
+        "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/draftLevel.tmx",
         "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
         "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/draftLevel.tmx",
         "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Tiled/TinyDungeon_Tilesheet.tsx",
