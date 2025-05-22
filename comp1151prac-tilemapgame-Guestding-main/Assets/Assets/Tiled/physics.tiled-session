@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "physics.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "physics.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 132.25,
+                "y": 35
+            }
+        },
+        "physicsMap.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        }
     },
     "last.imagePath": "C:/Users/49046020/Documents/Github/COMP1151 Pracs/comp1151-pracwk9-Guestding/comp1151prac-tilemapgame-Guestding-main/Assets/Assets/Kenny - Tiny Dungeon/Tilemap",
     "map.fixedSize": false,
@@ -14,9 +27,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "physicsMap.tsx",
+        "physics.tmx"
     ],
     "project": "physics.tiled-project",
     "recentFiles": [
+        "physicsMap.tsx",
+        "physics.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
