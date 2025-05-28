@@ -427,6 +427,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6189719707942934403, guid: f0ea155aafbad764dbd9810838057f85, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189719707942934403, guid: f0ea155aafbad764dbd9810838057f85, type: 3}
+      propertyPath: m_GravityScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189719707942934403, guid: f0ea155aafbad764dbd9810838057f85, type: 3}
+      propertyPath: m_SleepingMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8155047877700162874, guid: f0ea155aafbad764dbd9810838057f85, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.15
